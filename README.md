@@ -1,5 +1,5 @@
-# phyton-challenge-1
-This chalenge is to create a food truck menu ordering system. The menu items
+# python-challenge-1
+This challenge is to create a food truck menu ordering system. The menu items
 were pre-populated. Code was written to ask customer to select from 4 of food
 types. Then within a food type, customer is asked again what item they would
 like to order. Next the customer is asked a quantity of the item they chose.
